@@ -1,4 +1,4 @@
-package com.xiaoxuan.broadcastsample;
+package com.xiaoxuan.broadcastforceexit;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

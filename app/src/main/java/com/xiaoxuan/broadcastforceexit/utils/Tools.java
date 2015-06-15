@@ -1,4 +1,4 @@
-package com.xiaoxuan.broadcastsample.utils;
+package com.xiaoxuan.broadcastforceexit.utils;
 
 import android.content.Context;
 import android.widget.Toast;
@@ -8,7 +8,7 @@ import android.widget.Toast;
  */
 public class Tools {
 
-    public static void ToolsToast(Context context,String content) {
+    public static void ToolsToast(Context context, String content) {
         Toast.makeText(context, content, Toast.LENGTH_LONG).show();
     }
 }
